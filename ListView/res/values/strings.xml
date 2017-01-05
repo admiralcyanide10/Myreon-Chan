@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="listitems">
+        <item>ALPHA</item>
+        <item>BRAVO</item>
+        <item >CHARLIE</item>
+        <item>DELTA</item>
+        <item>ECHO</item>
+        <item>FOXTROT</item>
+        <item>GOLF</item>
+        </string-array>
+        
+</resources>
