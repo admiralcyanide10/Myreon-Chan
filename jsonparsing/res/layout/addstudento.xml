@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2468b4"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/idno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="#fefefe"
+        android:ems="10"
+        android:hint="IDNO"
+        android:padding="10dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/givenname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fefefe"
+        android:ems="10"
+        android:hint="GIVEN NAME"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/familyname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fefefe"
+        android:ems="10"
+        android:hint="FAMILY NAME"
+        android:padding="10dp" />
+
+    <Spinner
+        android:id="@+id/course"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fefefe"
+        android:entries="@array/course"
+        android:padding="10dp" />
+
+    <Spinner
+        android:id="@+id/yearlevel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fefefe"
+        android:entries="@array/yearlevel"
+        android:padding="10dp" />
+
+    <Spinner
+        android:id="@+id/campus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#fefefe"
+        android:entries="@array/campus"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="submit" />
+
+</LinearLayout>
