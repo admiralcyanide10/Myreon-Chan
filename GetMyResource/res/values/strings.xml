@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetMyResource</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="psits">
+        <item >alpha</item>
+        <item >bravo</item>
+        <item >charlie</item>
+        <item >delta</item>
+        <item >echo</item>
+        <item >foxtrot</item>
+        <item >golf</item>
+        <item >hotel</item>
+        <item >india</item>
+        <item >juliet</item>
+        <item >kilo</item>
+        <item >mike</item>
+        <item >november</item>
+        <item />
+    </string-array>
+
+</resources>
