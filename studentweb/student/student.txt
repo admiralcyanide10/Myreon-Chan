@@ -1,0 +1,6 @@
+0001,durano dennis,bscoe,5
+0002,sample,bscit,4
+0002,sample,bscit,4
+0001,DENNIS DURANO ,BSIS,3
+84028869,sample user ,BSIT,2
+9000,hello world ,BSCS,4
